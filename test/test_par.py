@@ -9,6 +9,6 @@ class TestClass:
 
     # Test para la operación par
     def test_par(self):
-        assert par(4) == 'Par'
-        assert par(1) == 'Impar'
+        assert par(4) == "Par"
+        assert par(1) == "Impar"
         
